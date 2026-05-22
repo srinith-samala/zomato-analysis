@@ -20,7 +20,7 @@ Dataset: Zomato global restaurant data — 9551 rows, 17 columns
 4) I found that as the price increases from cheap to moderate, the rating rises from 1.99 to 2.9. However, this trend does not hold when the price shifts from expensive to very expensive; in this case, the change in rating is quite minor, only moving from 3.68 to 3.81.
 This indicates that higher prices are associated with higher ratings. In other words, when the price is high, the quality of service is generally better. Therefore, we should focus on promoting highly-rated restaurants to our customers.
 
-5)) I found that Toit in Bangalore has the highest votes at 10,934 out of all restaurants globally in this dataset. This matters because it shows Bangalore has the highest customer engagement, meaning Zomato's user base is most active there. The business should prioritize new restaurant onboarding and promotional campaigns in Bangalore to capitalize on this engagement
+5) I found that Toit in Bangalore has the highest votes at 10,934 out of all restaurants globally in this dataset. This matters because it shows Bangalore has the highest customer engagement, meaning Zomato's user base is most active there. The business should prioritize new restaurant onboarding and promotional campaigns in Bangalore to capitalize on this engagement
 
 ## Tool Used
 MySQL, Power BI
